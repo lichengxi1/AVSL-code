@@ -1,0 +1,3 @@
+DINOv2Decom:
+  pretrained: True
+  bn_freeze: True
